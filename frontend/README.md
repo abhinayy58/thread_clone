@@ -13,7 +13,7 @@ This project is a minimal setup for creating a thread clone using React and Vite
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/thread-clone.git
+   git clone https://github.com/abhinayy58/thread_clone
    cd thread-clone
 
 2. **Install dependencies:**
