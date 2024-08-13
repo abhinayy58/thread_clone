@@ -44,17 +44,17 @@ ESLint is configured to enforce a consistent coding style and catch potential er
 
 Project Structure
 
-├── public/             # Static assets
-├── src/
-│   ├── assets/         # Images, fonts, etc.
-│   ├── components/     # Reusable components
-│   ├── pages/          # Application pages
-│   ├── App.jsx         # Main application component
-│   └── main.jsx        # Entry point
-├── .eslintrc.js        # ESLint configuration
-├── vite.config.js      # Vite configuration
-├── package.json        # Project dependencies and scripts
-└── README.md           # Project documentation
+- ├── public/             # Static assets
+- ├── src/
+- │   ├── assets/         # Images, fonts, etc.
+- │   ├── components/     # Reusable components
+- │   ├── pages/          # Application pages
+- │   ├── App.jsx         # Main application component
+- │   └── main.jsx        # Entry point
+- ├── .eslintrc.js        # ESLint configuration
+- ├── vite.config.js      # Vite configuration
+- ├── package.json        # Project dependencies and scripts
+- └── README.md           # Project documentation
 
 License
 This project is licensed under the MIT License.
